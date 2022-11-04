@@ -34,6 +34,15 @@ Frappe
 ### STEP 2:
 
 
+  <strong>```Permission```</strong> to scripting file
+   
+```
+  $ chmod +x frappe-installation.sh
+```
+
+### STEP 3:
+
+
   <strong>```RUN```</strong> frappe-installation script file
    
 ```
